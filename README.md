@@ -1,6 +1,6 @@
 # Anomalous cell migration
 
-#### Contained within this repository are two finite element analysis models used to implement the free-energy based approach for calculating the metabolic potential of a cell as outlined in the cited manuscript. The two models are separated based on the environment they recapitulate (2D vs 3D), but are built based upon the same physical implementation and running procedure.
+#### Contained within this repository are codes and data for generating migration trajectories on varying levels of viscosity and elasticity of the substrate and their analysis. 
 ### This repository relates to the research publication "Sharma V. et al., Glassy adhesion dynamics govern transitions between sub-diffusive and super-diffusive cell migration on viscoelastic substrates, BioRxiv, 2025" (https: ). Please cite our paper if this code is used or modified for further use.
 ## System Requirements
 ### Operating system:
