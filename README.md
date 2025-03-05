@@ -1,4 +1,4 @@
-# Anomalous cell migration
+# Glassy Adhesion Dynamics Govern Transitions Between Sub-Diffusive and Super-Diffusive Cell Migration on Viscoelastic Substrates
 
 #### Contained within this repository are codes and data for generating migration trajectories (for both conventional model and glassy model) on varying levels of viscosity and elasticity of the substrate and their analysis. 
 ### This repository relates to the research publication "Sharma V. et al., Glassy adhesion dynamics govern transitions between sub-diffusive and super-diffusive cell migration on viscoelastic substrates, BioRxiv, 2025" (https: ). Please cite our paper if this code is used or modified for further use.
