@@ -12,3 +12,8 @@
 #### •	MATLAB_R2024
 ## Installation guide
 ### 1.	Install MATLAB (https://www.mathworks.com/products/matlab.html). The installation usually takes approximately 1 hour.
+
+## Simulation Instructions:
+### 1. All the code required to produce migration trajectories for both glassy model and conventional model are provided in the "Codes and Data" folder. 
+### 2. Simply download the matlab scripts titled "glassy_model_xD.m" or "constant_tau_off_model.m" and run it using MATLAB. Instructions to change parameters are provided in the scripts but main parameter to change is "eta" i.e viscosity. 
+### 3. Sample code runs have also been provided for reference and the migration trajectories of cells for slow and fast relaxing substrates using both glassy and constant_tau_off model can be compared to see the drastic difference.
