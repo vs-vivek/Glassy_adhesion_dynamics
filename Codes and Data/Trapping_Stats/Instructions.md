@@ -1,17 +1,17 @@
-# 📊 Trapping Time Statistics for Glassy and Conventional Molecular Clutch Models
+# Trapping Time Statistics for Glassy and Conventional Molecular Clutch Models
 
 This folder contains all simulation codes, analysis scripts, and raw figures used to compute **trapping time statistics** for both the **Glassy** and **Conventional** molecular clutch models.
 
 ---
 
-## 🧠 Overview
+## Overview
 
 The *molecular clutch model* describes how stochastic binding and unbinding of clutches mediate the transmission of cytoskeletal forces to the substrate.  
 A **trapping event** corresponds to a stable period where clutches remain bound before a complete collapse (detachment) occurs.
 
 ---
 
-## ⚙️ Trapping Time Definition
+## Trapping Time Definition
 
 For both the **Glassy** and **Conventional** models:
 
@@ -22,7 +22,7 @@ For both the **Glassy** and **Conventional** models:
 
 ---
 
-## 🧩 Folder Contents
+## Folder Contents
 
 This directory includes the following key files:
   
@@ -32,7 +32,7 @@ This directory includes the following key files:
 
 ---
 
-## 📈 Output Description
+## Output Description
 
 Each multi-trajectory script produces:
 
@@ -41,7 +41,7 @@ Each multi-trajectory script produces:
 
 ---
 
-## 🧪 Reproducibility Notes
+## Reproducibility Notes
 
 - All simulations include stochastic clutch dynamics; therefore, individual trajectories vary.  
 - Running multiple (e.g., 50) trajectories ensures reliable ensemble statistics and smoother distributions.  
@@ -49,7 +49,7 @@ Each multi-trajectory script produces:
 
 ---
 
-## 🗂️ Suggested Workflow
+## Suggested Workflow
 
 1. Run the single-trajectory script in the main folder to visualize clutch dynamics in one run.  
 2. Run the 50-trajectory script (`*_Trapping_Statistics.m`) to gather statistical distributions.  
