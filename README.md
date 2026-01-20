@@ -1,7 +1,7 @@
 # Glassy Adhesion Dynamics Based Cell Migration
 
 #### Contained within this repository are codes and data for generating migration trajectories (for both conventional model and glassy model) on varying levels of viscosity and elasticity of the substrate and their analysis. 
-### This repository relates to the research publication "Sharma V. et al., Glassy adhesion dynamics govern transitions between sub-diffusive and super-diffusive cell migration on viscoelastic substrates, BioRxiv, 2025" (https: ). Please cite our paper if this code is used or modified for further use.
+### This repository relates to the research publication "Sharma V. et al., Glassy adhesion dynamics govern transitions between sub-diffusive and super-diffusive cell migration on viscoelastic substrates, Nature Communications, 2026" ([https: ](https://doi.org/10.1038/s41467-025-67709-1)). Please cite our paper if this code is used or modified for further use.
 ## System Requirements
 ### Operating system:
 #### This package is supported for macOS and windows. The package has been tested on the following systems:
